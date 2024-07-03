@@ -1,0 +1,3 @@
+﻿  Exam.cpp
+C:\Users\307-12\Desktop\C++\Exam\Exam.cpp(64,40): warning C4101: e: неиспользованная локальная переменная
+  Exam.vcxproj -> C:\Users\307-12\Desktop\C++\Exam\x64\Debug\Exam.exe
